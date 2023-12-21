@@ -97,12 +97,18 @@
 ### Contacts:
 
 <div>
-<a href="https://www.linkedin.com/in/erick-maur%C3%ADcio-tavares-425395224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
-<a href="https://api.whatsapp.com/send?phone=+5581984234376&text=Olá,%20estou%20entrando%20em%20contato%20através%20do%20seu%20perfil%20no%20WhatsApp!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-<a href="https://www.instagram.com/maudoso13/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="mailto:yammetal@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"></a>
-<a href="mailto:contato.maudoso13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<!-- <a href="https://medium.com/@*****" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a>
+<a href="https://www.linkedin.com/in/erick-maur%C3%ADcio-tavares-425395224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank">
+</a>
+<a href="https://api.whatsapp.com/send?phone=+5581984234376&text=Olá,%20estou%20entrando%20em%20contato%20através%20do%20seu%20perfil%20no%20WhatsApp!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" target="_blank">
+</a>
+<a href="https://www.instagram.com/maudoso13/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+</a>
+<a href="mailto:yammetal@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" target="_blank">
+</a>
+<a href="mailto:contato.maudoso13@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+<!-- <a href="https://medium.com/@*****" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank">
+</a>
  -->
 </div>&nbsp;&nbsp;
 
