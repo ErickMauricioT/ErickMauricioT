@@ -7,6 +7,8 @@
 
 <p align="center">Estou ingressando na jornada da programação com entusiasmo e determinação, <br>buscando oportunidades para dar os primeiros passos na minha carreira nesse campo. <br><strong> Estou comprometido em aprender, crescer e contribuir para projetos, </strong> <strong>visando desenvolver todo meu potencial como programador. </strong> </p>&nbsp;
 
+<h2 align="center" >⚡Stats⚡</h2>
+
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ErickMauricioT&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=ErickMauricioT&show_icons=true&theme=radical&layout=compact" />
@@ -14,10 +16,10 @@
  
  &nbsp;
  &nbsp;
+ &nbsp;
 
+ <h2 align="center" >⚡My Skills⚡</h2>
 
-
-## My Skills
 
 #### Main Stack:
 
@@ -84,7 +86,7 @@
 &nbsp;
 
 
-## Contacts:
+### Contacts:
 
 <div>
 <a href="https://www.linkedin.com/in/erick-maur%C3%ADcio-tavares-425395224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
@@ -95,7 +97,6 @@
 <!-- <a href="https://medium.com/@*****" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a>
  -->
 </div>&nbsp;&nbsp;
-
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>&nbsp;
