@@ -1,18 +1,25 @@
 <!-- <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp; -->
+
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+Sou+O+Erick!;" />
 </h1>
 
 
-<p align="center">Estou ingressando na jornada da programação com entusiasmo e determinação, <br>buscando oportunidades para dar os primeiros passos na minha carreira nesse campo. <br><strong> Estou comprometido em aprender, crescer e contribuir para projetos, </strong> <strong>visando desenvolver todo meu potencial como programador. </strong> </p>&nbsp;
+<p align="center" style="font-family: 'Arial', sans-serif; line-height: 1.6;">
+  <em>🚀 Estou ingressando na jornada da programação com entusiasmo e determinação! 🌟</em><br><br>
+  <em>🔍 Buscando oportunidades para dar os primeiros passos na minha carreira nesse campo. 🌱</em><br>
+  <strong>💡 Estou comprometido em aprender, crescer e contribuir para projetos,</strong><br>
+  <strong>visando desenvolver todo meu potencial como programador. 🖥️</strong>
+</p><br>
+
 
 <h2 align="center" >⚡Stats⚡</h2>
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ErickMauricioT&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=ErickMauricioT&show_icons=true&theme=radical&layout=compact" />
- </div>
+ </div> <br>
  
  &nbsp;
  &nbsp;
