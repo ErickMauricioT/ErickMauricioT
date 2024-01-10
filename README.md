@@ -19,7 +19,7 @@
 <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 100px;">
     <img width="30%" src="https://github-readme-streak-stats.herokuapp.com?user=ErickMauricioT&theme=radical&mode=weekly" />
     <img width="30%" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=ErickMauricioT&show_icons=true&theme=radical&layout=compact" />
-   <!--  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" /> -->
+   <img width="30%" src="https://github-readme-stats.vercel.app/api?username=ErickMauricioT&show_icons=true&theme=radical" />
 </div>
 
  </div> <br>
