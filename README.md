@@ -5,8 +5,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+Sou+O+Erick!;" />
 </h1>
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
-
 <p align="center" style="font-family: 'Arial', sans-serif; line-height: 1.6;">
   <em>🚀 Estou ingressando na jornada da programação com entusiasmo e determinação! 🌟</em><br><br>
   <em>🔍 Buscando oportunidades para dar os primeiros passos na minha carreira nesse campo. 🌱</em><br>
@@ -18,9 +16,12 @@
 <h2 align="center" >⚡Stats⚡</h2>
 <br>
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ErickMauricioT&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=ErickMauricioT&show_icons=true&theme=radical&layout=compact" />
+<div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 100px;">
+    <img width="30%" src="https://github-readme-streak-stats.herokuapp.com?user=ErickMauricioT&theme=radical&mode=weekly" />
+    <img width="30%" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=ErickMauricioT&show_icons=true&theme=radical&layout=compact" />
+     <img width="30%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
+</div>
+
  </div> <br>
  
  &nbsp;
